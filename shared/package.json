@@ -1,0 +1,12 @@
+{
+  "name": "@cipherlab/shared",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "./api-contracts/index.ts",
+  "types": "./api-contracts/index.ts",
+  "exports": {
+    ".": "./api-contracts/index.ts"
+  }
+}
+
